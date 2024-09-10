@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parth
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently SD Intern at Datagrokr Analytics
 - 💞️ I’m looking to collaborate on (still not decided)
 - 😄 Pronouns: He/him
   
